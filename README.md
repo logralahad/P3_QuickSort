@@ -1,2 +1,3 @@
 # P3_QuickSort
-Realizar un programa que ordené 1,000,000 de elementos generados aleatoriamente por medio del algoritmo Quick Sort utilizando listas doblemente ligadas.
+
+![alt text](https://cdn.programiz.com/sites/tutorial2program/files/quick-sort-0.1-1.png)
